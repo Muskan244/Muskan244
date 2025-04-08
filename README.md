@@ -19,8 +19,8 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new courier service platform using Django REST Framework**
-- 🌱 I'm currently learning: **📚 Exploring Node.js**
+- 💼 I'm currently working on: **💻 Developing a new bidding platform using Spring Boot Framework**
+- 🌱 I'm currently learning: **📚 Exploring MCP Servers**
 - 💬 Ask me about: **💡 JavaScript, C++, Python, SQL and RESTful APIs**
 
  **<h3 align="left">Skills</h3>**
